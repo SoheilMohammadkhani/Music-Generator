@@ -7,7 +7,7 @@ To run train.py: py train.py [Dataset Name] [Number Of Epochs]
 To run main.py: py main.py [Name Of Music] [Style(Dataset Name)] [Number Of Notes]  
   
 Programmers:  
-Soheil Mohammadkhani()  
+Soheil Mohammadkhani(https://github.com/SoheilMohammadkhani)  
 Mohammadmahdi Doolabi  
 Arshia Samizad  
 Sorena Khiabani  
